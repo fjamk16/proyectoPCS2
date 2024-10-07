@@ -1,0 +1,1 @@
+<p>Información exclusiva para gerentes</p>
